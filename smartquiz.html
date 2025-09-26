@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Quiz | Byte Bites</title>
+    <link rel="stylesheet" href="css/style.css"
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">about us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="quiz-intro">
+            <h1>Take the Smart Quiz</h1>
+            <p>Discover your perfect snack match!</p>
+        </section>
+        <section id="quiz-questions">
+            <form>
+                <label for="diet">What is your diet?</label>
+                <select id="diet" name="diet">
+                    <option value="vegetarian">Vegetarian</option>
+                    <option value="vegan">Vegan</option>
+                    <option value="gluten-free">Gluten-free</option>
+                </select><br><br>
+                <label for="snack-pref">What is your snack preference?</label>
+                <select id="snack-pref" name="snack-pref">
+                    <option value="sweet">Sweet</option>
+                    <option value="salty">Salty</option>
+                    <option value="both">Both</option>
+                </select><br><br>
+                <input type="submit" value="Get Results">
+            </form>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
