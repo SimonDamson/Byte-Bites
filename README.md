@@ -99,3 +99,35 @@ Commented all code (HTML, CSS, JS).
 Improved UX (button hover effects, smooth scrolling).
 
 Prepared site for Stripe checkout integration.
+
+References 
+
+Cooper, A., Reimann, R. & Cronin, D. (2014) About Face: The Essentials of Interaction Design. 4th ed. Indianapolis: Wiley.
+
+Nielsen, J. (2012) Usability 101: Introduction to Usability. Nielsen Norman Group. Available at: https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+ (Accessed: 1 October 2025).
+
+W3C (2023) Web Accessibility Initiative (WAI) Guidelines. Available at: https://www.w3.org/WAI/
+ (Accessed: 1 October 2025).
+
+Google (2024) Material Design Guidelines. Available at: https://m3.material.io/
+ (Accessed: 1 October 2025).
+
+Stripe (2024) Online Payment Integration Documentation. Available at: https://stripe.com/docs/payments
+ (Accessed: 1 October 2025).
+
+Shopify (2024) E-commerce Website Design Best Practices. Available at: https://www.shopify.com/blog
+ (Accessed: 1 October 2025).
+
+SiteGround (2024) Hosting and Website Optimization Guide. Available at: https://www.siteground.com/blog
+ (Accessed: 1 October 2025).
+
+UX Planet (2023) Mobile-First Design: Why It’s Important. Available at: https://uxplanet.org/mobile-first-design-why-it-matters
+ (Accessed: 1 October 2025).
+
+Healthline (2024) Healthy Snacking for Energy and Focus. Available at: https://www.healthline.com/nutrition/healthy-snacks
+ (Accessed: 1 October 2025).
+
+
+
+
