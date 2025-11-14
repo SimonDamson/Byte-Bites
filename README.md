@@ -48,6 +48,22 @@ Consistent color-coded buttons for calls-to-action (e.g., subscribe, checkout).
 
 Clear structure: Homepage → Quiz → Plans → Checkout.
 
+4. Recent updates
+
+Embedded Map: I added an embedded map to the Contact page, making it easier for visitors to find my business location.
+
+Form Validation: I implemented form validation for the Enquiry and Contact forms, ensuring that users can't submit empty forms.
+
+Gallery Lightbox: A gallery lightbox has been added, enhancing the user’s experience when viewing images.
+
+Meta Tags: I added meta tags for description and keywords, improving search engine optimization (SEO).
+
+Smart Quiz Button: The "Take the Smart Quiz" button now links to the Smart Quiz page.
+
+Readme File Updates: I updated the README file to include improvements, changelog, commits, GitHub link, and references.
+
+JavaScript –  I added Java script to make the website better.
+
 📌 Changelog (Website Development Progress)
 
 Version 1.0 – Initial Proposal
@@ -99,6 +115,17 @@ Commented all code (HTML, CSS, JS).
 Improved UX (button hover effects, smooth scrolling).
 
 Prepared site for Stripe checkout integration.
+
+Version 1.6  - javascript and gallery lightbox
+
+Fixed the Take the quiz button to link to the smartquiz button
+
+Added a gallery lightbox to the Homepage,Services page and Smartquiz page.
+
+Added meta tags for description and keywords.
+
+Added an embedded map to the Contact page
+
 
 References 
 
