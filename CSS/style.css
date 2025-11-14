@@ -57,3 +57,20 @@ button {
 button:hover {
     background-color: #ffffff;
 }
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: #ff9898; /* Green color */
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #3e8e41; /* Darker green color 
