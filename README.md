@@ -154,6 +154,20 @@ UX Planet (2023) Mobile-First Design: Why It’s Important. Available at: https:
 
 Healthline (2024) Healthy Snacking for Energy and Focus. Available at: https://www.healthline.com/nutrition/healthy-snacks
  (Accessed: 1 October 2025).
+ W3Schools. (n.d.). CSS Buttons. Retrieved from https://www.w3schools.com/css/css3_buttons.asp
+CSS-Tricks. (n.d.). A Complete Guide to CSS Buttons. Retrieved from https://css-tricks.com/a-complete-guide-to-css-buttons/
+Form Validation
+MDN Web Docs. (n.d.). Form validation. Retrieved from https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+W3Schools. (n.d.). HTML Form Validation. Retrieved from https://www.w3schools.com/html/html_form_validation.asp
+Gallery Lightbox
+Lokesh Dhakar. (n.d.). Lightbox2. Retrieved from https://lokeshdhakar.com/projects/lightbox2/
+W3Schools. (n.d.). Lightbox. Retrieved from https://www.w3schools.com/howto/howto_js_lightbox.asp
+Meta Tags
+Google Developers. (n.d.). Meta tags. Retrieved from https://developers.google.com/search/docs/advanced/crawling/meta-tags
+W3Schools. (n.d.). HTML Meta Tags. Retrieved from https://www.w3schools.com/html/html_meta.asp
+SEO
+Google Developers. (n.d.). Search Engine Optimization (SEO). Retrieved from https://developers.google.com/search/docs
+Moz. (n.d.). SEO. Retrieved from https://moz.com/learn/seo
 
 
 
